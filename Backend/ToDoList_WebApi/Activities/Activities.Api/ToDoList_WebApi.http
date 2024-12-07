@@ -1,0 +1,16 @@
+POST http://localhost:5224/events
+Content-Type: application/json
+
+{
+  "name": "My Event",
+  "beginDate": "2024-12-10T10:00:00Z",
+  "endDate": "2024-12-12T18:00:00Z",
+  "location": {
+    "name": "Central Park",
+    "latitude": 40.785091,
+    "longitude": -73.968285
+  },
+  "photo": null,
+  "links": [["https://example.com"], ["https://example.org"]]
+}
+

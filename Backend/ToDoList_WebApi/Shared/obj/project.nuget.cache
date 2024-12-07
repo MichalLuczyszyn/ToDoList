@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6bmFHwUOAVv9Wa42Po+gxVYQbx23+T1qfZ1NuOtc2v/TovwxAPAb4+jzdtxm/SCWnBEYdq07Yk8ajgpoRpt0bQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rokmar\\RiderProjects\\ToDoList\\Backend\\ToDoList_WebApi\\Shared\\Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rokmar\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Rokmar\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Rokmar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
